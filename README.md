@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Lucide_Icons-UI_Icons-blueviolet?style=for-the-badge&logo=lucide&logoColor=fff" />
 
 ---
-# 🌐 For Live Preview:- N/A
+# 🌐 For Live Preview:- Updating soon...
+---
 # 🚀 About the Project :-
 ### The GDC Nagrota Surian E-Library is a beautifully animated, highly responsive frontend-based digital library (no backend yet) built for students & faculty. It includes:
 
@@ -28,7 +29,7 @@
 - Mobile-Friendly & Responsive.
 
 ---
-# 📸Screenshots:- N/A
+# 📸Screenshots:- Images will be added shortly.
 ---
 # 🔧⚙️ Setup Instructions:-
 
