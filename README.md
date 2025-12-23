@@ -39,7 +39,7 @@
    ```
    ```
    cd college-e-library
-   ```
+   
                  OR
 
    Download the ZIP:- 
