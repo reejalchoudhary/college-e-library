@@ -33,17 +33,19 @@
 ---
 # 🔧⚙️ Setup Instructions:-
 
-0) Clone the repository:-
-   ```
-   git clone https://github.com/reejalchoudhary/college-e-library.git  
-   ```
-   ```
-   cd college-e-library
-   
-                 OR
+0)  Get the Project Code:-        
+ • Clone using Git:-
 
-   Download the ZIP:- 
-   Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
+  ```
+    git clone https://github.com/reejalchoudhary/college-e-library.git  
+   ```
+
+   ```
+    cd college-e-library
+   ```
+
+       • Download the ZIP:- Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
+
   
 
 1) Install Dependencies:-
